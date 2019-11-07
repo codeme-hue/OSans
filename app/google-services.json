@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "5116055406",
+    "firebase_url": "https://osans-c41eb.firebaseio.com",
+    "project_id": "osans-c41eb",
+    "storage_bucket": "osans-c41eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5116055406:android:f49278741e65ac8461fb7f",
+        "android_client_info": {
+          "package_name": "id.kardihaekal.osans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5116055406-1ce2f9vovds7sdghdrl8gj21ffl4r6ut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.kardihaekal.osans",
+            "certificate_hash": "6b18520fa36a0f0a5db974274256f26775ae0c8a"
+          }
+        },
+        {
+          "client_id": "5116055406-apf75l3c61bkdg8bive9mbpuvhvnpdca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZOKXLuFJ8wS1cX00_tpn0xqbH7oLHBC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5116055406-apf75l3c61bkdg8bive9mbpuvhvnpdca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
